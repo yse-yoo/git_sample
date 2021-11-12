@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>ログイン</h2>    
+    <h2>会員登録</h2>
 </body>
 </html>
